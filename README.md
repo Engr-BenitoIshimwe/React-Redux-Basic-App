@@ -1,1 +1,1 @@
-Everything you need to know about redux
+## Everything you need to know about Redux
